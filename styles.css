@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.css{
+    text-align: center;
+    background-color: rgb(243, 198, 85);
+
+}
+#SB{
+    background-color: rgb(5, 36, 63);
+    color: aliceblue;
+}
